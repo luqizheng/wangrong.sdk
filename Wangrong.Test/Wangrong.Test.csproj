@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Wangrong.Sdk\Wangrong.Sdk.csproj" />
+    <ProjectReference Include="..\Wangrong.Sdk\Wangrong.Payment.Sdk.csproj" />
   </ItemGroup>
 
 
